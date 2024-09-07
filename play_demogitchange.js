@@ -1,4 +1,4 @@
-console.log("Demon GIT Change");
+console.log("Demo GIT Change");
 
 // ADDING NEW PROJECT AND USING GIT
 
